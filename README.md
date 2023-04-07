@@ -1,6 +1,6 @@
 ## Meu nome é Eduardo Oliveira Ramos e sou um desenvolvedor! ##
 
-- 😉 Hoje em dia tenho adquirido conhecimentos entre váriados campos e disciplinas!
+- 😉 Sempre adquirindo conhecimentos entre váriados campos e disciplinas! 🪐🔥⚡🌊
 - ✔  Estudando React, TypeScript, java e solidity!
 - ⚓ Automação Industrial, programação de CLP, instrumentação, análise de projetos para automação industrial!
 - 📫 contacte-me no email: eduardo.oliveiraramos12@hotmail.com
