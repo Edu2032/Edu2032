@@ -1,13 +1,12 @@
-## Meu nome é Eduardo Oliveira Ramos sou um desenvolvedor! ##
+## Meu nome é Eduardo Oliveira Ramos e sou um desenvolvedor! ##
 
-- 🔭 Hoje Trabalho com Front-End
-- 🌱 Estudando React e TypeScript
-- 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
-- 📫 contacte-me no email: devbatistacontato@gmail.com
-- 😄 Pronouns: ele/dele
+- 😉 Hoje em dia tenho adquirido conhecimentos entre váriados campos e disciplinas!
+- ✔  Estudando React, TypeScript, java e solidity!
+- ⚓ Automação Industrial, programação de CLP, instrumentação, análise de projetos para automação industrial!
+- 📫 contacte-me no email: eduardo.oliveiraramos12@hotmail.com
 
 <div align="center">
-  <a href="https://github.com/Mateus-Batista12">
+  <a href="https://github.com/Edu2032">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Batista12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Batista12&layout=compact&langs_count=7&theme=dracula"/>
 </div>
