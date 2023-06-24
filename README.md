@@ -2,7 +2,7 @@
 
 - 😉 Sempre adquirindo conhecimentos entre váriados campos e disciplinas 🪐🔥⚡🌊
 - ✔  Estudando React, TypeScript, java e solidity
-- ⚓ Automação Industrial, programação de CLP 
+- ⚓ Automação Industrial
 - 💻 Desenvolvedor de aplicativos e programas para internet 
 - 📫 contacte-me no email: eduardo.oliveiraramos12@hotmail.com
 
